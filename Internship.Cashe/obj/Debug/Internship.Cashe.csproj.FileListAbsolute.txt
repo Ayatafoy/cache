@@ -1,0 +1,6 @@
+c:\users\aromanov\documents\visual studio 2015\Projects\Internship.Cashe\Internship.Cashe\bin\Debug\Internship.Cashe.exe.config
+c:\users\aromanov\documents\visual studio 2015\Projects\Internship.Cashe\Internship.Cashe\bin\Debug\Internship.Cashe.exe
+c:\users\aromanov\documents\visual studio 2015\Projects\Internship.Cashe\Internship.Cashe\bin\Debug\Internship.Cashe.pdb
+c:\users\aromanov\documents\visual studio 2015\Projects\Internship.Cashe\Internship.Cashe\obj\Debug\Internship.Cashe.exe
+c:\users\aromanov\documents\visual studio 2015\Projects\Internship.Cashe\Internship.Cashe\obj\Debug\Internship.Cashe.pdb
+C:\Users\aromanov\documents\visual studio 2015\Projects\Internship.Cashe\Internship.Cashe\obj\Debug\Internship.Cashe.csprojResolveAssemblyReference.cache
