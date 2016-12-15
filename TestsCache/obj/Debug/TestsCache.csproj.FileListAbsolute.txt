@@ -1,0 +1,13 @@
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\bin\Debug\TestsCache.dll
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\bin\Debug\TestsCache.pdb
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\bin\Debug\Castle.Core.dll
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\bin\Debug\Internship.Cashe.exe
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\bin\Debug\Moq.dll
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\bin\Debug\nunit.framework.dll
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\bin\Debug\Internship.Cashe.pdb
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\bin\Debug\Castle.Core.xml
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\bin\Debug\Moq.xml
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\bin\Debug\nunit.framework.xml
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\obj\Debug\TestsCache.csprojResolveAssemblyReference.cache
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\obj\Debug\TestsCache.dll
+C:\Users\aromanov\Documents\Visual Studio 2015\Projects\Internship.Cashe\TestsCache\obj\Debug\TestsCache.pdb

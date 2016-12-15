@@ -20,8 +20,6 @@ namespace Internship.Cashe
 
         public User GetUserById(int id)
         {
-            if (id == null)
-                throw new ArgumentNullException("id");
             Tuple<User, DateTime> value;
             if (_userLookup.TryGetValue(id, out value) && value.Item2 >= DateTime.UtcNow)
             {
